@@ -1,7 +1,7 @@
 
 # Hello World!, I'm SKSHAM KAUSHAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">:
 
-<h3 align="center">A passionate fullstack Developer 🧑🏽‍💻 </h3>
+<h3 align="center">A passionate Developer 🧑🏽‍💻 </h3>
 
 
 
