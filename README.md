@@ -12,7 +12,7 @@
 
 
 
-- 🌱 I’m currently learning **Libraries, Frameworks and advance full staack**
+- 🌱 I’m currently learning **Libraries, Frameworks and advance full stack**
 - 🔭 I’m currently working on small-small projects 
 - 📫 Email  **skshamkaushal@gmail.com**
 
