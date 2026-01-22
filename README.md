@@ -1,8 +1,20 @@
 
-# Hello World!, I'm SKSHAM KAUSHAL <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">:
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=SKSHAMKAUSHAL&label=Profile%20views&color=0e75b6&style=flat" alt="SKSHAMKAUSHAL" /> </p>
+<h1 align="center">
+<a href="https://git.io/typing-svg">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=0CE555&background=1A2421&center=true&vCenter=true&width=650&height=60&lines=Hello%2Cthere+fellow+%3CDevelopers%2F%3E!;I'm+Sksham+Kaushal!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9F%91%8B;A+Full+Stack+Developer"
+    alt="Typing SVG" 
+  /></a>
+</h1>
 
-<h3 align="center">A passionate Developer 🧑🏽‍💻 </h3>
+<br/>
 
+
+</h1>
+
+ 
+<div align="center" justify="center" >
 
 
 
@@ -16,12 +28,47 @@
 - 🔭 I’m currently working on small-small projects 
 - 📫 Email  **skshamkaushal@gmail.com**
 
+<br/>
+<hr/>
+<div align="center">
+
+👨‍💻 All of my projects are available at
+<a href="https://no1portfolio.netlify.app/" target="_blank"><b>Portfolio</b></a>
+
+</div>
+</div>
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍  <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="58" /> </h2>
+  <p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SKSHAMKAUSHAL&amp;theme=react-dark" alt="Ashutosh&#39;s github activity graph"></a></p>
+    <br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yghugardare/yghugardare/output/github-contribution-grid-snake.svg" /
+  
+ <img alt="contribution" src ="https://github.com/yghugardare/yghugardare/assets/117991996/85b364c8-3fe9-422e-9298-49ce1e008eff"> 
 
 
+</div>
 
-# 💻 Tech Stack   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> :
+<hr/>
+</div>
 
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div align="center" style="display:grid;">
+  <img  width="400"  src="https://streak-stats.demolab.com/?user=SKSHAMKAUSHAL&count_private=true&theme=react&border_radius=10" alt="streak stats"/> 
+  <img  width="400"  src="https://github-readme-stats-salesp07.vercel.app/api?username=SKSHAMKAUSHAL&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<img  width="400"  src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SKSHAMKAUSHAL&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  </div>
+
+
+<br/>
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center" style="display:grid;grid-template-colums:auto">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,firebase,mongodb,git,github,java,ts,mysql,vscode,vercel,prisma,postman,docker" />
+    
+</div>
 
 <!--
 <picture>
@@ -32,15 +79,30 @@
 -->
 
 
-<br>
+<!-- <br>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 
 <br>
+ -->
 
 
+<br/>
+<hr/>
+<h2 align="center">🤝Connect with me🤝</h2>
+<div align="center">
+<a href="https://www.linkedin.com/in/sksham-kaushal/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yghugar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/SKSHAM_KAUSHAL/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash_ghugardare" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/profile/skshamkfx3d" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yghugardare6" height="30" width="40" /></a>
+</div>
+<hr/>
 
 
+<div align="center"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=100&background=1A2228&center=true&vCenter=true&width=435&height=80&lines=Happy+Coding!%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
+<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=100&color=FFCE00&background=541516&center=true&vCenter=true&width=435&height=80&lines=Stay+Relentless!%F0%9F%94%A5%F0%9F%94%A5" alt="Typing SVG" /></a>
+</div>
 
 
 
