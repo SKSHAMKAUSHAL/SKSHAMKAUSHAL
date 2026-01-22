@@ -42,7 +42,7 @@
   <h2>🐍 My Contributions 🐍  <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="58" /> </h2>
   <p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SKSHAMKAUSHAL&amp;theme=react-dark" alt="Ashutosh&#39;s github activity graph"></a></p>
     <br/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yghugardare/yghugardare/output/github-contribution-grid-snake.svg" /
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SKSHAMKAUSHAL/SKSHAMKAUSHAL/output/github-contribution-grid-snake.svg" /
   
  <img alt="contribution" src ="https://github.com/yghugardare/yghugardare/assets/117991996/85b364c8-3fe9-422e-9298-49ce1e008eff"> 
 
