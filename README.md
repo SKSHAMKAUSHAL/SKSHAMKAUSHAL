@@ -38,8 +38,9 @@
 </div>
 </div>
 <hr/>
+   <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/SKSHAMKAUSHAL/SKSHAMKAUSHAL/output/github-snake-dark.svg" />
 <div align="center">
-  <h2>🐍 My Contributions 🐍  <img src="https://media.giphy.com/media/cmOBZdewjfLzV9NQiH/giphy.gif" width="58" /> </h2>
   <p><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SKSHAMKAUSHAL&amp;theme=react-dark" alt="Ashutosh&#39;s github activity graph"></a></p>
     <br/>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SKSHAMKAUSHAL/SKSHAMKAUSHAL/output/github-contribution-grid-snake.svg" /
