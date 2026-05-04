@@ -6,15 +6,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=0CE555&background=1A2421&center=true&vCenter=true&width=650&height=60&lines=Hello%2Cthere+fellow+%3CDevelopers%2F%3E!;I'm+Sksham+Kaushal!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9F%91%8B;A+Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </h1>
-
 <div align="center">
   <img style="border-radius: 10px; width: 100%; max-width: 600px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF">
 </div>
-
 <br/>
-
 ### 👨‍💻 About Me
-
 - 🌱 I’m currently learning **Libraries, Frameworks, and Advanced Full-Stack Development**
 - 🔭 I’m currently working on **exciting small projects**
 - 📫 Reach out to me: **[skshamkaushal@gmail.com](mailto:skshamkaushal@gmail.com)**
