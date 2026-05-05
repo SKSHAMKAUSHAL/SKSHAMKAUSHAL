@@ -10,14 +10,14 @@
   <img style="border-radius: 10px; width: 100%; max-width: 600px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF">
 </div>
 <br/>
-### 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
+
 - 🌱 I’m currently learning **Libraries, Frameworks, and Advanced Full-Stack Development**
 - 🔭 I’m currently working on **exciting small projects**
 - 📫 Reach out to me: **[skshamkaushal@gmail.com](mailto:skshamkaushal@gmail.com)**
 - 🌐 Check out my work: **[My Portfolio](https://no1portfolio.netlify.app/)**
 
 <hr/>
-
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br/>
 <div align="center">
