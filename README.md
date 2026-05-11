@@ -1,9 +1,6 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=SKSHAMKAUSHAL&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
-
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1000&color=0CE555&background=1A2421&center=true&vCenter=true&width=650&height=60&lines=Hello%2Cthere+fellow+%3CDevelopers%2F%3E!;I'm+Sksham+Kaushal!+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+%F0%9F%91%8B;A+Full+Stack+Developer" alt="Typing SVG" />
@@ -73,11 +70,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="40" width="50" />
   </a>
 </div>
-
 <hr/>
-
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=100&background=1A2228&center=true&vCenter=true&width=435&height=80&lines=Happy+Coding!%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Happy Coding" />
