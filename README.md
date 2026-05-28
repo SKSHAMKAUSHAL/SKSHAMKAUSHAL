@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Libraries, Frameworks, and Advanced Full-Stack Development**
 - 🔭 I’m currently working on **exciting small projects**
 - 📫 Reach out to me: **[skshamkaushal@gmail.com](mailto:skshamkaushal@gmail.com)**
-- 🌐 Check out my work: **[My Portfolio](https://no1portfolio.netlify.app/)**
+- 🌐 Check out my work: **[My Portfolio](https://www.skshamkaushal.me)**
 
 <hr/>
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
