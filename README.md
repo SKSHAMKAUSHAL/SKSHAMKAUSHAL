@@ -10,11 +10,11 @@
 <!-- <div align="center">
   <img style="border-radius: 10px; width: 100%; max-width: 600px;" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF">
 </div> -->
-<br/>
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- <br/>
+<h2 align="center">👨‍💻 About Me</h2> -->
 
 - 🌱 I’m currently learning **Libraries, Frameworks, and Advanced Full-Stack Development**
-- 🔭 I’m currently working on **exciting small projects**
+- 🔭 I’m currently working on **exciting  projects**
 - 📫 Reach out to me: **[skshamkaushal@gmail.com](mailto:skshamkaushal@gmail.com)**
 - 🌐 Check out my work: **[Portfolio](https://www.skshamkaushal.me)**
 
@@ -52,7 +52,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKSHAMKAUSHAL/SKSHAMKAUSHAL/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKSHAMKAUSHAL/SKSHAMKAUSHAL/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SKSHAMKAUSHAL/SKSHAMKAUSHAL/output/github-contribution-grid-snake.svg" />
+    <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SKSHAMKAUSHAL/SKSHAMKAUSHAL/output/github-contribution-grid-snake.svg" /> -->
   </picture>
 </div>
 
@@ -77,8 +77,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=100&background=1A2228&center=true&vCenter=true&width=435&height=80&lines=Happy+Coding!%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Happy Coding" />
   </a>
   <br/>
-  <a href="https://git.io/typing-svg">
+  <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=40&duration=4000&pause=100&color=FFCE00&background=541516&center=true&vCenter=true&width=435&height=80&lines=Stay+Relentless!%F0%9F%94%A5%F0%9F%94%A5" alt="Stay Relentless" />
-  </a>
+  </a> -->
 </div>
 
